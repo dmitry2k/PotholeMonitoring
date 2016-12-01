@@ -5,6 +5,9 @@
 Android устройство должно быть установлено на автомобиле экраном вверх.
 Минимиальная версия Android: Android 5.0 (API 21).
 
-Пример работы приложения:
+Примеры работы приложения:
+
 ![Пример1](https://github.com/dmitry2k/PotholeMonitoring/blob/master/samples/Screenshot_2016-06-13-12-55-46.jpg)
-![Пример2](dmitry2k/PotholeMonitoring/blob/master/samples/Screenshot_2016-06-13-16-02-31.jpg)
+
+
+![Пример2](https://github.com/dmitry2k/PotholeMonitoring/blob/master/samples/Screenshot_2016-06-13-16-02-31.jpg)
